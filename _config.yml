@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: nahomh@github.com
+github_user: nahomh
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: nhome
+twitter_user: NahomH
 twitter_tweet_button: true
 
 # Google +1
@@ -98,4 +98,5 @@ disqus_show_comment_count: true
 google_analytics_tracking_id:
 
 # Facebook Like
+facebook_user: nahomh
 facebook_like: true
