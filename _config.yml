@@ -71,7 +71,7 @@ github_skip_forks: false
 
 # Twitter
 twitter_user: NahomH
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -96,6 +96,10 @@ disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
+
+#linkedin
+linkedin_user: nhome
+#instagram
 
 # Facebook Like
 facebook_user: nahomh
